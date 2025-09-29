@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.81420a2a.css",
-    "main.js": "/static/js/main.67d0262e.js",
-    "static/js/453.24054552.chunk.js": "/static/js/453.24054552.chunk.js",
-    "static/media/hero-img-2.jpg": "/static/media/hero-img-2.2ac9bd2d5295e6a72ffc.jpg",
-    "static/media/hero-img-3.jpg": "/static/media/hero-img-3.b22a009bffb2e3444ccf.jpg",
-    "static/media/hero-img.jpg": "/static/media/hero-img.2c6f6df8ad88836a1812.jpg",
-    "static/media/reviewer-2.jpg": "/static/media/reviewer-2.b481d00a017c9745a402.jpg",
-    "static/media/reviewer-3.jpg": "/static/media/reviewer-3.5305da471ec8e53bb325.jpg",
-    "static/media/speaking-practice.jpg": "/static/media/speaking-practice.3159ef0b6ef83c32d233.jpg",
-    "static/media/reviewer-1.jpg": "/static/media/reviewer-1.8ae4ff1336034f4d08c9.jpg",
-    "static/media/ai-band-scoring.jpg": "/static/media/ai-band-scoring.3f5d99444d6eebc7de10.jpg",
-    "static/media/mock-test.jpg": "/static/media/mock-test.0e643f5af9862f769e39.jpg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.81420a2a.css.map": "/static/css/main.81420a2a.css.map",
-    "main.67d0262e.js.map": "/static/js/main.67d0262e.js.map",
-    "453.24054552.chunk.js.map": "/static/js/453.24054552.chunk.js.map"
+    "main.css": "/sample-ielts-institute-webpage/static/css/main.1b316ee5.css",
+    "main.js": "/sample-ielts-institute-webpage/static/js/main.1999b5e4.js",
+    "static/js/453.24054552.chunk.js": "/sample-ielts-institute-webpage/static/js/453.24054552.chunk.js",
+    "static/media/hero-img-2.jpg": "/sample-ielts-institute-webpage/static/media/hero-img-2.2ac9bd2d5295e6a72ffc.jpg",
+    "static/media/hero-img-3.jpg": "/sample-ielts-institute-webpage/static/media/hero-img-3.b22a009bffb2e3444ccf.jpg",
+    "static/media/hero-img.jpg": "/sample-ielts-institute-webpage/static/media/hero-img.2c6f6df8ad88836a1812.jpg",
+    "static/media/reviewer-2.jpg": "/sample-ielts-institute-webpage/static/media/reviewer-2.b481d00a017c9745a402.jpg",
+    "static/media/reviewer-3.jpg": "/sample-ielts-institute-webpage/static/media/reviewer-3.5305da471ec8e53bb325.jpg",
+    "static/media/speaking-practice.jpg": "/sample-ielts-institute-webpage/static/media/speaking-practice.3159ef0b6ef83c32d233.jpg",
+    "static/media/reviewer-1.jpg": "/sample-ielts-institute-webpage/static/media/reviewer-1.8ae4ff1336034f4d08c9.jpg",
+    "static/media/ai-band-scoring.jpg": "/sample-ielts-institute-webpage/static/media/ai-band-scoring.3f5d99444d6eebc7de10.jpg",
+    "static/media/mock-test.jpg": "/sample-ielts-institute-webpage/static/media/mock-test.0e643f5af9862f769e39.jpg",
+    "static/media/slick.svg": "/sample-ielts-institute-webpage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sample-ielts-institute-webpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sample-ielts-institute-webpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sample-ielts-institute-webpage/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sample-ielts-institute-webpage/index.html",
+    "main.1b316ee5.css.map": "/sample-ielts-institute-webpage/static/css/main.1b316ee5.css.map",
+    "main.1999b5e4.js.map": "/sample-ielts-institute-webpage/static/js/main.1999b5e4.js.map",
+    "453.24054552.chunk.js.map": "/sample-ielts-institute-webpage/static/js/453.24054552.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81420a2a.css",
-    "static/js/main.67d0262e.js"
+    "static/css/main.1b316ee5.css",
+    "static/js/main.1999b5e4.js"
   ]
 }
