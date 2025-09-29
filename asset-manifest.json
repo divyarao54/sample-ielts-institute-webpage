@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sample-ielts-institute-webpage/static/css/main.1b316ee5.css",
-    "main.js": "/sample-ielts-institute-webpage/static/js/main.1999b5e4.js",
+    "main.js": "/sample-ielts-institute-webpage/static/js/main.6ef04921.js",
     "static/js/453.24054552.chunk.js": "/sample-ielts-institute-webpage/static/js/453.24054552.chunk.js",
     "static/media/hero-img-2.jpg": "/sample-ielts-institute-webpage/static/media/hero-img-2.2ac9bd2d5295e6a72ffc.jpg",
     "static/media/hero-img-3.jpg": "/sample-ielts-institute-webpage/static/media/hero-img-3.b22a009bffb2e3444ccf.jpg",
@@ -18,11 +18,11 @@
     "static/media/slick.woff": "/sample-ielts-institute-webpage/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sample-ielts-institute-webpage/index.html",
     "main.1b316ee5.css.map": "/sample-ielts-institute-webpage/static/css/main.1b316ee5.css.map",
-    "main.1999b5e4.js.map": "/sample-ielts-institute-webpage/static/js/main.1999b5e4.js.map",
+    "main.6ef04921.js.map": "/sample-ielts-institute-webpage/static/js/main.6ef04921.js.map",
     "453.24054552.chunk.js.map": "/sample-ielts-institute-webpage/static/js/453.24054552.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b316ee5.css",
-    "static/js/main.1999b5e4.js"
+    "static/js/main.6ef04921.js"
   ]
 }
