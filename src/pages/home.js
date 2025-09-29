@@ -1,3 +1,5 @@
+/*Website by Divya Rao
+Github Link: https://github.com/divyarao54*/
 import React from 'react'
 import NavBar from '../components/navbar'
 import Hero from '../components/hero'
