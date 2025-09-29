@@ -1,0 +1,150 @@
+.feature-cards-container{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin: 50px;
+}
+
+.feature-title{
+    font-size: 5vw;
+    text-align: left;
+    color: #261a05;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.feature-cards-section{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.feature-card{
+    width: 28vw;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease-in-out;
+}
+
+.feature-card:hover{
+    transform: translateY(-3px);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.3);
+}
+
+.feature-card-img-container{
+    width: 28vw;
+    height: 30vw;
+    overflow: hidden;
+}
+
+.feature-card-img{
+    width: 100%;
+}
+
+.feature-card-text-section{
+    text-align: left;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.feature-card-title{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #261a05;
+}
+
+.feature-card-description{
+    font-family: 'Sen', serif;
+    color: #261a05;
+}
+
+.feature-card-button{
+    padding: 5px 10px;
+    width: fit-content;
+    border-radius: 25px;
+    border: #261a05 solid 2px;
+    font-family: 'Sen', serif;
+    color: #261a05;
+    background: #ffffff;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1);
+}
+
+.feature-card-button:hover{
+    background: #ffe9c4;
+    transform: scale(1.1);
+}
+
+@media screen and (max-width: 1200px){
+    
+    .feature-card-title{
+        font-size: 4vw;
+    }
+
+    .feature-cards-container{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .feature-title{
+        text-align: left;
+        align-self: flex-start;
+    }
+
+    .feature-cards-section{
+        display: grid;
+        width: max-content;
+        padding: 0px;
+    }
+
+    .feature-card{
+        height: 400px;
+        display: flex;
+        flex-direction: row;
+        width: max-content;
+    }
+
+    .feature-card-img-container{
+        width: 345px;
+        height: 400px;
+    }
+
+    .feature-card-img{
+        object-position: top;
+    }
+
+    .feature-card-text-section{
+        gap: 50px;
+        justify-content: space-between;
+    }
+
+    .card-text{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .feature-card-title{
+        font-size: 4vw;
+    }
+    .feature-cards-container{
+        margin: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .feature-title{
+        text-align: left;
+        font-size: 30px;
+        padding: 50px 0 0 5px;
+    }
+
+    .feature-card{
+        flex-direction: column;
+    }
+}
